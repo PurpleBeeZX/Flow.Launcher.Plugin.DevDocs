@@ -4,7 +4,7 @@
   "Name": "DevDocs",
   "Description": "Quick access to documentations for various programming languages, frameworks and tools.",
   "Author": "Apostolos Antoniou",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Language": "javascript",
   "ExecuteFileName": "./src/main.js",
   "Website": "https://github.com/apostolosantoniou/Flow.Launcher.Plugin.DevDocs",
