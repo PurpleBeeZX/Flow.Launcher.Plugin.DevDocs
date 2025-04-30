@@ -289,6 +289,7 @@ export const data = [
     { "key": "sema", "name": "Sema", "url": "https://sema.run/docs" },
     { "key": "sentry", "name": "Sentry", "url": "https://docs.sentry.io/" },
     { "key": "sequelize", "name": "Sequelize", "url": "https://sequelize.org/master/manual/" },
+    { "key": "shadcn", "name": "ShadCN", "url": "https://ui.shadcn.com/docs" },
     { "key": "shopware", "name": "Shopware", "url": "https://docs.shopware.com/en/shopware-platform-dev-en" },
     { "key": "shotgrid", "name": "ShotGrid", "url": "https://developer.shotgridsoftware.com/" },
     { "key": "sketch", "name": "Sketch", "url": "https://developer.sketch.com/" },
